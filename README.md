@@ -11,6 +11,8 @@ curl -OL https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buil
 
 ```
 
+[![Screenshot_20191210](https://raw.githubusercontent.com/BuildAPKs/docsBuildAPKs/master/bitpics/screenshots/Screenshot_20191210.jpg)](https://buildapks.github.io/docsBuildAPKs/setup)
+
 See [docsBuildAPKs](https://github.com/BuildAPKs/docsBuildAPKs/) for information regarding this project.
 
 [buildAPKs.entertainment](https://buildapks.github.io/buildAPKs.entertainment)
