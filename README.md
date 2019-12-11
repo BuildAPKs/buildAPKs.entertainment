@@ -5,14 +5,13 @@ Android APK app sources that build in [Termux](https://github.com/termux) in Ama
 
 ```
 
-cd && git clone https://github.com/BuildAPKs/buildAPKs
+curl -OL https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
 
-~/buildAPKs/setup.buildAPKs.bash
+~/setup.buildAPKs.bash
 
 ```
 
+See [docsBuildAPKs](https://github.com/BuildAPKs/docsBuildAPKs/) for information regarding this project.
+
 [buildAPKs.entertainment](https://buildapks.github.io/buildAPKs.entertainment)
-
-See [buildAPKs](https://github.com/BuildAPKs/buildAPKs/) for information regarding this project.
-
 <!--README.md OEF-->
