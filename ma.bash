@@ -1,7 +1,7 @@
 #!/bin/env bash 
 # Copyright 2019 (c) all rights reserved 
 # by BuildAPKs https://buildapks.github.io ; See: LICENSE
-# See: ` cat ~/buildAPKs/var/db/README.md ` for an outline of ma.bash
+# See ` cat ~/buildAPKs/var/db/README.md ` for an outline of ma.bash
 #####################################################################
 set -Eeuo pipefail
 shopt -s nullglob globstar
