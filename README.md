@@ -9,8 +9,6 @@ cd && git clone https://github.com/BuildAPKs/buildAPKs
 
 ~/buildAPKs/setup.buildAPKs.bash
 
-~/buildAPKs/scripts/build/build.entertainment.bash
-
 ```
 
 [buildAPKs.entertainment](https://buildapks.github.io/buildAPKs.entertainment)
