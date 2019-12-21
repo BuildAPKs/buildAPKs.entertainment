@@ -9,7 +9,7 @@ Android APK app sources that build in Amazon, Android, Chromebook and Windows wi
 
     curl -OL https://raw.githubusercontent.com/BuildAPKs/buildAPKs/master/setup.buildAPKs.bash
 
-    ./setup.buildAPKs.bash
+    bash setup.buildAPKs.bash
 
 ```
 
