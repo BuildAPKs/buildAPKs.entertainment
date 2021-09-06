@@ -9,4 +9,5 @@ shopt -s nullglob globstar
 cd "$JDR"
 # Usage: _AT_ account/repository commit
 _AT_ twuster/Rubix 51be3c6c808ff95d0533ad77deac088c2af49f80
+_AT_ uvwxy/android-snappy e5c16c6bc72ce70d7a667e3d94a14c068e5bb30b
 # ma.bash OEF
